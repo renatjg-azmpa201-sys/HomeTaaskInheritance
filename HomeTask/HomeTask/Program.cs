@@ -1,7 +1,8 @@
-﻿using LoginType_Task;
+﻿
+using LoginType_Task;
 using System.ComponentModel;
 
-User user = new User("", "", "");
+//User user = new User("", "", "");
 
 //string username;
 

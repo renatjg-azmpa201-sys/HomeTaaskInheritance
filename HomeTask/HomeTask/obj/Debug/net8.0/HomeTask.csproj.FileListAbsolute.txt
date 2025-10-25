@@ -12,3 +12,4 @@ C:\Users\vivex\Desktop\InheritanceTask\HomeTask\HomeTask\obj\Debug\net8.0\refint
 C:\Users\vivex\Desktop\InheritanceTask\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.pdb
 C:\Users\vivex\Desktop\InheritanceTask\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.genruntimeconfig.cache
 C:\Users\vivex\Desktop\InheritanceTask\HomeTask\HomeTask\obj\Debug\net8.0\ref\HomeTask.dll
+C:\Users\vivex\Desktop\InheritanceTask\HomeTask\HomeTask\obj\Debug\net8.0\HomeTask.sourcelink.json

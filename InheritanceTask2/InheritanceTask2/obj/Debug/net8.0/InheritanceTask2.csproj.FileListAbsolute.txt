@@ -1,0 +1,15 @@
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\bin\Debug\net8.0\InheritanceTask2.exe
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\bin\Debug\net8.0\InheritanceTask2.deps.json
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\bin\Debug\net8.0\InheritanceTask2.runtimeconfig.json
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\bin\Debug\net8.0\InheritanceTask2.dll
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\bin\Debug\net8.0\InheritanceTask2.pdb
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.AssemblyInfoInputs.cache
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.AssemblyInfo.cs
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.csproj.CoreCompileInputs.cache
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.sourcelink.json
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.dll
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\refint\InheritanceTask2.dll
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.pdb
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\InheritanceTask2.genruntimeconfig.cache
+C:\Users\vivex\Desktop\InheritanceTask\InheritanceTask2\InheritanceTask2\obj\Debug\net8.0\ref\InheritanceTask2.dll

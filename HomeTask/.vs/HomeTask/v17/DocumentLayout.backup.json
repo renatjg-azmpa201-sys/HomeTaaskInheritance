@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{7ACA7492-FB6E-41A2-8CC8-DBD8B5F42EE1}|HomeTask\\HomeTask.csproj|c:\\users\\vivex\\desktop\\inheritancetask\\hometask\\hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACA7492-FB6E-41A2-8CC8-DBD8B5F42EE1}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA7492-FB6E-41A2-8CC8-DBD8B5F42EE1}|HomeTask\\HomeTask.csproj|c:\\users\\vivex\\desktop\\inheritancetask\\hometask\\hometask\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA7492-FB6E-41A2-8CC8-DBD8B5F42EE1}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACA7492-FB6E-41A2-8CC8-DBD8B5F42EE1}|HomeTask\\HomeTask.csproj|c:\\users\\vivex\\desktop\\inheritancetask\\hometask\\hometask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACA7492-FB6E-41A2-8CC8-DBD8B5F42EE1}|HomeTask\\HomeTask.csproj|solutionrelative:hometask\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\Admin.cs",
+              "RelativeDocumentMoniker": "HomeTask\\Admin.cs",
+              "ToolTip": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\Admin.cs",
+              "RelativeToolTip": "HomeTask\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:56:10.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\User.cs",
+              "RelativeDocumentMoniker": "HomeTask\\User.cs",
+              "ToolTip": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\User.cs",
+              "RelativeToolTip": "HomeTask\\User.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T10:56:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\Program.cs",
               "RelativeDocumentMoniker": "HomeTask\\Program.cs",
-              "ToolTip": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\Program.cs*",
-              "RelativeToolTip": "HomeTask\\Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBsAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\vivex\\Desktop\\InheritanceTask\\HomeTask\\HomeTask\\Program.cs",
+              "RelativeToolTip": "HomeTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T10:36:03.751Z",
               "EditorCaption": ""
